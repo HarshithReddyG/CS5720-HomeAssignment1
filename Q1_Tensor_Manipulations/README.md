@@ -47,4 +47,7 @@ Contact:
   Student ID: 700780724
   Email: hxg07240@ucmo.edu
 
+  Code Path: Q1_Tensor_Manipulations/HA1_1.ipynb
+
+
 
