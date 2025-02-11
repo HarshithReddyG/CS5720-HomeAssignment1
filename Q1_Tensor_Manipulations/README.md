@@ -1,11 +1,11 @@
 Tensor Manipulation & Reshaping
 
-Overview: This code focuces on tensor manipulations using TensorFlow, including creating, reshaping, transposing, and broadcasting tensors. These operations are essential for handling multi-dimensional data in deep learning.
+Overview: This code focuses on tensor manipulations using TensorFlow, including creating, reshaping, transposing, and broadcasting tensors. These operations are essential for handling multi-dimensional data in deep learning.
 
 Dataset: Tensors are generated randomly using TensorFlow functions. No external datasets are used
 
 Code Flow: 
-  i. creating a random tensor: 
+i. creating a random tensor: 
     Generates a 4×6 random tensor with integer values between 0 and 1
   ii. Finding Rank and Shape:
     Computes the rank (number of dimensions) and shape (size of each dimension) using TensorFlow functions.
@@ -48,6 +48,3 @@ Contact:
   Email: hxg07240@ucmo.edu
 
   Code Path: Q1_Tensor_Manipulations/HA1_1.ipynb
-
-
-
