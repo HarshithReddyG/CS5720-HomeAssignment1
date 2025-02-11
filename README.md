@@ -52,8 +52,8 @@ CS5720-HomeAssignment1/
 - Implements **TensorBoard callbacks** for visualization.
 - Stores logs for **training & validation** under `logs/fit/`.
 - **GitHub links to logs**:
-  - **[Training Logs](https://github.com/yourusername/your-repo/blob/main/Q4_TensorBoard_Logging/logs/fit/20250211-200738/train/)**
-  - **[Validation Logs](https://github.com/yourusername/your-repo/blob/main/Q4_TensorBoard_Logging/logs/fit/20250211-200738/validation/)**
+  - **[Training Logs](https://github.com/HarshithReddyG/CS5720-HomeAssignment1/tree/main/Q4_TensorBoard_Logging/logs/fit/20250211-200738/train)**
+  - **[Validation Logs](https://github.com/HarshithReddyG/CS5720-HomeAssignment1/tree/main/Q4_TensorBoard_Logging/logs/fit/20250211-200738/validation)**
 
 ## Installation & Requirements
 Ensure you have the following dependencies installed:
