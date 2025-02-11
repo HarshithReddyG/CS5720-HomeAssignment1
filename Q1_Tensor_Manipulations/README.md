@@ -29,3 +29,22 @@ Output:
   i. Prints the rank and shape before and after reshaping.
   ii. Displays the broadcasted tensor’s shape after addition.
   Note: Open the HA1_1.ipynb to view to notebook with executed output 
+  Path: Q1_Tensor_Manipulations/HA1_1.ipynb
+
+Observation: 
+  i. Rank & Shape Analysis:
+    Before reshaping: Rank = 2, Shape = (4,6).
+    After reshaping: Rank = 3, Shape = (2,3,4).
+    After transposing: Shape changes based on new axis order.
+  ii. Broadcasting Behaviour: 
+    The smaller tensor automatically expands dimensions to match the larger tensor’s shape before addition.
+
+Remarks: Code is commented properly explanning each step in detail. use Q1_Tensor_Manipulations/HA1_1.ipynb to view the code
+in proper format because the code was written and executed in Google colab. Attaching the HA1_1.py (.py format) code for reference.
+
+Contact: 
+  Name: Harshith Reddy Gundra
+  Student ID: 700780724
+  Email: hxg07240@ucmo.edu
+
+
